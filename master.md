@@ -21,7 +21,8 @@ example pipeline:
         {
             "type":"readers.text",
             "filename":"dom1l-fp_32358_5655_1_nw.xyz",
-            "header":"x,y,z"
+            "header":"x,y,z",
+            "spatialreference":"EPSG:25832"
         },
         {
             "type":"writers.las",
@@ -40,7 +41,7 @@ pdal pipeline <PATH_TO_PIPELINE>
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODg3MDE1MywtMTMyNzE1NzAzNSwtMT
+eyJoaXN0b3J5IjpbMTc3MjI3NDc1NywtMTMyNzE1NzAzNSwtMT
 kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
 OTYwXX0=
 -->
