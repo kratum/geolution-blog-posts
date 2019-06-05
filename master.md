@@ -25,19 +25,22 @@ example pipeline:
         },
         {
             "type":"writers.las",
-            "filename":"dom1l-fp_32358_5655_1_nw_2.laz"
+            "filename":"dom1l-fp_32358_5655_1_nw.laz"
         }
     ]
 }
 ```
-This 
+This pipeline can be used with
+```
+pdal pipeline 
+```
 
 
 
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ0ODE1MDcsLTEzMjcxNTcwMzUsLT
-E5MjczNzc1MDgsMTM0OTI1NTgwNiwxNjgyNzc3MjEyLC00Nzkw
-MDk2MF19
+eyJoaXN0b3J5IjpbMzI1MTk5MDYzLC0xMzI3MTU3MDM1LC0xOT
+I3Mzc3NTA4LDEzNDkyNTU4MDYsMTY4Mjc3NzIxMiwtNDc5MDA5
+NjBdfQ==
 -->
