@@ -8,8 +8,8 @@ What do we need:
 Go to [opengeodata.nrw.de](https://www.opengeodata.nrw.de/produkte/geobasis/dom/dom1l/), select your desired dataset and download it. Inside  your downloaded zip file is a bunch of .xyz ascii files named like this:
 - dom1l-fp_32353_5658_1_nw.xyz
 
-__dom1l__ i
+__dom1l__ is german for _digitales Oberflächenmodell_ and is a DSM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjg5Mjk4MiwxNjgyNzc3MjEyLC00Nz
+eyJoaXN0b3J5IjpbLTYxOTc0MzA4NywxNjgyNzc3MjEyLC00Nz
 kwMDk2MF19
 -->
