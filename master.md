@@ -32,7 +32,8 @@ example pipeline:
 	},
         {
             "type":"writers.las",
-            "filename":"dom1l-fp_32358_5655_1_nw.laz"
+            "filename":"dom1l-fp_32358_5655_1_nw.laz",
+            "a_srs":"EPSG:25832"
         }
     ]
 }
@@ -41,13 +42,13 @@ This pipeline can be used with
 ```
 pdal pipeline <PATH_TO_PIPELINE> 
 ```
-and it will read the xyz file, set
+and it will read the xyz file, detect outliers and write a compressed las file with a spatial reference
 
 
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk0ODE0OSwxNzcyMjc0NzU3LC0xMz
-I3MTU3MDM1LC0xOTI3Mzc3NTA4LDEzNDkyNTU4MDYsMTY4Mjc3
-NzIxMiwtNDc5MDA5NjBdfQ==
+eyJoaXN0b3J5IjpbLTg4MjkyMjY4LDE3NzIyNzQ3NTcsLTEzMj
+cxNTcwMzUsLTE5MjczNzc1MDgsMTM0OTI1NTgwNiwxNjgyNzc3
+MjEyLC00NzkwMDk2MF19
 -->
