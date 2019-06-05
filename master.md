@@ -32,7 +32,7 @@ example pipeline:
 ```
 This pipeline can be used with
 ```
-pdal pipeline 
+pdal pipeline <PATH_TO_PIPELINE> 
 ```
 
 
@@ -40,7 +40,7 @@ pdal pipeline
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MTk5MDYzLC0xMzI3MTU3MDM1LC0xOT
-I3Mzc3NTA4LDEzNDkyNTU4MDYsMTY4Mjc3NzIxMiwtNDc5MDA5
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTMxODg3MDE1MywtMTMyNzE1NzAzNSwtMT
+kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
+OTYwXX0=
 -->
