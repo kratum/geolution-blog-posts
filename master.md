@@ -9,8 +9,10 @@ Go to [opengeodata.nrw.de](https://www.opengeodata.nrw.de/produkte/geobasis/dom/
 - dom1l-fp_32353_5658_1_nw.xyz
 
 __dom1l__ is a german shortname for  _digitales Oberflächenmodell_ and that is like a DSM. Just for the sake of completeness. A DTM in english is a DGM in german.
-__
+__\_fp\___ is for first pulse.
+__\_#####_####\___ are the coordinates in EPSG:25 the lower left corner of a
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTI3ODIxNywxNjgyNzc3MjEyLC00Nz
+eyJoaXN0b3J5IjpbMTQxNzA2NTI2NiwxNjgyNzc3MjEyLC00Nz
 kwMDk2MF19
 -->
