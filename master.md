@@ -24,6 +24,12 @@ example pipeline:
             "header":"x,y,z",
             "spatialreference":"EPSG:25832"
         },
+ {
+     "type":"filters.outlier",
+     "method":"statistical",
+     "mean_k":12,
+     "multiplier":2.2
+ },
         {
             "type":"writers.las",
             "filename":"dom1l-fp_32358_5655_1_nw.laz"
@@ -41,7 +47,7 @@ pdal pipeline <PATH_TO_PIPELINE>
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjI3NDc1NywtMTMyNzE1NzAzNSwtMT
-kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
-OTYwXX0=
+eyJoaXN0b3J5IjpbMTAxMzU2ODYwOSwxNzcyMjc0NzU3LC0xMz
+I3MTU3MDM1LC0xOTI3Mzc3NTA4LDEzNDkyNTU4MDYsMTY4Mjc3
+NzIxMiwtNDc5MDA5NjBdfQ==
 -->
