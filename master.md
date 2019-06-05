@@ -12,7 +12,7 @@ Go to [opengeodata.nrw.de](https://www.opengeodata.nrw.de/produkte/geobasis/dom/
 __\_fp\___ is for _first pulse_ and __\_aw\___ for  water bodies
 __\_#####_####\___ are the coordinates of the lower left corner of a sqkm in EPSG:25832
 
-Some preprocessing is necessary befor we can start du use the data. We will compress the data to .laz format and remove outliers. Here comes pdal into play. The concept of pdal is to build pipelines for point cloud processing like filtering, classification, conversion. 
+Some preprocessing is necessary befor we can start du use the data. We will compress the data to .laz format, remove outliers and set a spatial reference. Here comes pdal into play. The concept of pdal is to build pipelines for point cloud processing like filtering, classification or transformation. Those pipelines are .json files
 
 ``
 
@@ -24,7 +24,7 @@ Some preprocessing is necessary befor we can start du use the data. We will comp
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDg2ODg4NCwtMTMyNzE1NzAzNSwtMT
-kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
-OTYwXX0=
+eyJoaXN0b3J5IjpbLTIwNjYyMTMzODUsLTEzMjcxNTcwMzUsLT
+E5MjczNzc1MDgsMTM0OTI1NTgwNiwxNjgyNzc3MjEyLC00Nzkw
+MDk2MF19
 -->
