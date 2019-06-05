@@ -16,16 +16,33 @@ Some preprocessing is necessary befor we can start du use the data. We will comp
 
 pipeline
 ``
-
+{
+    "pipeline":[
+        {
+            "type":"readers.text",
+            "filename":"C:\\TEMP\\geodata\\DOM1l_FP\\entpackt\\dom1l-fp_32358_5655_1_nw.xyz",
+            "header":"x,y,z"
+        },
+        {
+            "type":"writers.las",
+            "filename":"dom1l-fp_32358_5655_1_nw_2.laz"
+        }
+    ]
+}
 ``
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+```
 
 
 
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzUxOTcwMSwtMTMyNzE1NzAzNSwtMT
-kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
-OTYwXX0=
+eyJoaXN0b3J5IjpbNzQwMDYwMzQsLTEzMjcxNTcwMzUsLTE5Mj
+czNzc1MDgsMTM0OTI1NTgwNiwxNjgyNzc3MjEyLC00NzkwMDk2
+MF19
 -->
