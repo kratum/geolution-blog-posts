@@ -12,7 +12,7 @@ Go to [opengeodata.nrw.de](https://www.opengeodata.nrw.de/produkte/geobasis/dom/
 __\_fp\___ is for _first pulse_ and __\_aw\___ for  water bodies
 __\_#####_####\___ are the coordinates of the lower left corner of a sqkm in EPSG:25832
 
-To use the data in 
+Some preprocessing is necessary befor we can start du use the data. 
 
 
 
@@ -20,7 +20,7 @@ To use the data in
 
 [further information](https://rapidlasso.com/2017/01/03/first-open-lidar-in-germany/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzMyNTM1MywtMTMyNzE1NzAzNSwtMT
-kyNzM3NzUwOCwxMzQ5MjU1ODA2LDE2ODI3NzcyMTIsLTQ3OTAw
-OTYwXX0=
+eyJoaXN0b3J5IjpbNzIyNTc4MTE5LC0xMzI3MTU3MDM1LC0xOT
+I3Mzc3NTA4LDEzNDkyNTU4MDYsMTY4Mjc3NzIxMiwtNDc5MDA5
+NjBdfQ==
 -->
