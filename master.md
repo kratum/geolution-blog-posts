@@ -6,8 +6,9 @@ What do we need:
 - https://www.opengeodata.nrw.de/produkte/geobasis/dom/dom1l/
 - https://pdal.io/
 
-One very easy way to get pdal up and running on your system is by using the package[Anaconda](https://www.anaconda.com/)
+One very easy way to get pdal up and running on your system is by using the package manager [Anaconda](https://www.anaconda.com/).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE5MjU1NzldfQ==
+eyJoaXN0b3J5IjpbLTQ3OTAwOTYwXX0=
 -->
